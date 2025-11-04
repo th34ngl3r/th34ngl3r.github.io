@@ -5,7 +5,7 @@ categories: [blog, Cyber Security, tools]
 tags: [cyber security,security,tools] # Always lower case
 ---
 
-# h1 Hello World
+# Hello World
 rambling
 on about 
 nothing important
@@ -14,6 +14,13 @@ nothing important
 * scripts
 * blogs
 
+
+```javascript
+console.log('hello world!');
+```
 ```bash
 sudo /bin/bash
 ```
+
+## Photos
+![img-description]()
