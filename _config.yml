@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Th3_4ngl3r # the main title
 
-tagline: subtitles not included # it will display as the subtitle
+tagline: A collection of scripts and ramblings # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A collection of scripts and ramblings.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/hush.jpeg
+avatar: /assets/images/hush_small.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
