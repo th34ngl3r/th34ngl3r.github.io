@@ -5,6 +5,7 @@ categories: [Linux, Install Guide]
 tags: [opensearch]
 author: Th3_4ngl3r
 toc: true
+comments: true
 ---
 
 This guide walks through a Bash script that installs and configures the OpenSearch suite on a Linux system using RPM packages. It includes user setup, plugin activation, and service management. 
