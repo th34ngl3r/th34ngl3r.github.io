@@ -1,8 +1,9 @@
 ---
 title: From Vim to Neovim<br>A Practical Revolution for Linux Developers
 date: 2025-11-02 12:00:00 -05:00
-categories: [blog]
-tags: [Neovim] # Always lower case
+author: "Th3_4ngl3r"
+categories: [Linux, Blog]
+tags: [neovim] # Always lower case
 ---
 
 ![Neovim](/assets/images/neovim.png)
