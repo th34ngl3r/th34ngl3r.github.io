@@ -3,8 +3,8 @@ layout: post
 title: "Cyber defense with AI — a practical playbook for leaders"
 date: 2025-11-05 09:50:00 -0500
 author: "Th3_4ngl3r"
-categories: [CyberSecurity] #[CyberSecurity, AI, Leadership, Blog]
-tags: [AI, Cyber Defense, SOC, EDR, XDR, SOAR, UEBA, Governance]
+categories: [CyberSecurity, Leadership] #[CyberSecurity, AI, Leadership, Blog]
+tags: [Cyber Defense] #[AI, Cyber Defense, SOC, EDR, XDR, SOAR, UEBA, Governance]
 excerpt: "AI is transforming cyber defense from reactive firefighting into proactive, scalable protection. Here's a practical guide for leaders."
 ---
 
