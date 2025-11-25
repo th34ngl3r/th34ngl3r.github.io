@@ -8,7 +8,6 @@ tags: [neovim] # Always lower case
 
 ![Neovim](/assets/images/neovim.png)
 
-
 ## Celebrating 34 Years of Vim
 
 This year we celebrate the **34th birthday of Vim** — a Vi-derived editor created by **Bram Moolenaar** that has reshaped how developers interact with text. Bram took a basic editor and transformed it into a cornerstone of the FOSS community, creating a culture of both efficiency and humility.

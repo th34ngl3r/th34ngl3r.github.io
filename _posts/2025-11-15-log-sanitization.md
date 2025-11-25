@@ -98,4 +98,4 @@ Data sanitization is not just a technical safeguard—it’s a strategic imperat
 
 Sanitizing log data before sharing with third-party vendors is a non-negotiable practice in modern cybersecurity. It protects user privacy, secures organizational assets, and mitigates the risks of external compromise. Organizations must treat log data as sensitive by default and enforce rigorous sanitization protocols to uphold trust and compliance.
 
-You can find my Python script to assist with log sanitiation here:  https://github.com/th34ngl3r/logSanitizer
+You can find my Python script to assist with log sanitiation here:  <https://github.com/th34ngl3r/logSanitizer>

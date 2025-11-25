@@ -8,7 +8,7 @@ toc: true
 comments: true
 ---
 
-This guide walks through a Bash script that installs and configures the OpenSearch suite on a Linux system using RPM packages. It includes user setup, plugin activation, and service management. 
+This guide walks through a Bash script that installs and configures the OpenSearch suite on a Linux system using RPM packages. It includes user setup, plugin activation, and service management.
 
 ## Table of Contents
 
@@ -128,6 +128,7 @@ echo "OpenSearch suite installed and configured!"
 echo "Access OpenSearch Dashboards at http://localhost:5601"
 echo "Default credentials: admin / admin (change ASAP)"
 ```
+
 ## Plugin Descriptions
 
 - **Security Plugin**  
