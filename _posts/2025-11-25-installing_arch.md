@@ -8,8 +8,6 @@ tags: [Arch]
 toc: true
 ---
 
-# Installing Arch Linux with Pacstrap: A Step-by-Step Guide
-
 Arch Linux is known for its simplicity, flexibility, and control. Unlike other distributions, Arch gives you the freedom to build your system from the ground up. In this guide, we’ll walk through the installation process using `pacstrap`, explaining each command in detail so you understand exactly what’s happening under the hood.
 
 ---
