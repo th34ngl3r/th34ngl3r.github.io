@@ -1,7 +1,7 @@
 ---
 title: "2025 - Notable Breaches and Hacks Part 1"
 date: 2025-11-08 08:35:00 -0500
-categories: []
+categories: [CyberSecurity]
 tags: []
 author: Th3_4ngl3r
 toc: true
@@ -10,14 +10,13 @@ comments: false
 
 Cyber attackers are growing bolder than ever—hackers. Organized threat actors and  foreign governments are escalating their campaigns with unprecedented aggression. 2025 yields no sign of slowing down.  With the increasing use and power of AI, the scale and sophistication of these cyber assaults continue to disrupt economies, destabilize institutions, and impact the daily lives of millions of people worldwide. From crippling ransomware strikes to state-sponsored espionage, the digital battlefield has become a defining challenge of our time. In the next few posts, we’ll dive into some of the most impactful hacks and attacks of 2025, examining how they unfolded, who was behind them, and what lessons they leave for the future of cybersecurity.
 
-# T-Mobile
-
 ## Facts
+
 June 2025.  Hackers posted data on a public data‑leak forum within the dark web, claiming to contain 64 million lines of customer information dated around June 1, 2025. The contents allegedly included names, phone numbers, email addresses, device identifiers, and other PII. If these claims were valid, security researches issued warning that this information could be used to enable targeted phishing, SIM‑swap attempts, and identity fraud.
 
 The leak was presented as a fresh compromise rather than recycled data, which is why it attracted rapid attention across security outlets and social media.  
 
-## Verification 
+## Verification
 
 Samples shared by the forum were examined and reviewed.  Early reporting noted the dataset could contain new data points which were not seen in prior incidents.  Independent verification was incomplete and stated that some samples may have been compiled from older breaches or public resources. Threat actors have been known to mix datasets to inflate claims.  Security researchers and analysts will look for unique internal markers and cross‑checks before confirming accuracy or legitimacy.
 
