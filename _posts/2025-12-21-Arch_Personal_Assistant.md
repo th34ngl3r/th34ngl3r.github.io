@@ -153,6 +153,7 @@ Make the script executable.
 ```bash
 chmod +x ~/.local/bin/voice-gemini.sh
 ```
+
 The script above depicts sending the query to to pro version of Gemini.  You can replace
 <https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent>
 
