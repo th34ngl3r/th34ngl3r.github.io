@@ -60,7 +60,7 @@ pip install -U openai-whisper
 * Log into the Gemini API Studio <https://aistudio.google.com/>
 * Click **Create API Key**
 * Secure the key or email it to me! **export GEMINI_API_KEY="Your API key here"**.
-  * Optional but recommended:  Store this in iether ~/.profile or ~/.bashrc
+  * Optional but recommended:  Store this in either ~/.profile or ~/.bashrc
 
 ## Creating a Voice Assistant Script
 
