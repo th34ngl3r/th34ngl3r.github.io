@@ -171,7 +171,7 @@ bind = SUPER, G, exec, ~/.local/bin/voice-gemini.sh
 
 Now, when you press SUPER and G you will start a 10 second recording that will ship off to Gemini and receive a prompt via Dunst with the reply.  This could greatly me expanded to take you anywhere!
 
-I will be posting this script to my Github page and update it as this grows.
+I will be posting this script to my Github page and update it as this grows.  Link to the project forthcoming!
 
 ## Conclusion
 
