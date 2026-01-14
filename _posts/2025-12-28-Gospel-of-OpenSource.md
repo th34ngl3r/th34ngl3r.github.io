@@ -58,4 +58,3 @@ But is it not better to struggle in freedom than to be comfortable in a gilded c
 Let us pray. Lord, grant us the wisdom to choose tools that empower us rather than control us. Help us to be good stewards of our technology, to share freely with our brothers and sisters, and to always seek the Open Truth. May our uptimes be long and our kernels never panic.
 
 **In the name of the Root, the Shell, and the Compiled Script. Amen!**
-
