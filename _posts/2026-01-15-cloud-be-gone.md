@@ -35,7 +35,7 @@ This demonstrates the risk of OneDrive as a single point of failure.
 winget uninstall Microsoft.OneDrive
 ```
 
-*If prompted, to agree to source terms, type Y*
+Note: If prompted, to agree to source terms, type Y
 
 ## Step 2: Block OneDrive via Group Policy
 
