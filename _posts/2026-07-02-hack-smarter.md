@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Try Harder | Hack Smarter"
-date: 2026-07-03 06:30:00 -0500
+date: 2026-07-02 21:30:00 -0500
 categories: [Kali]
 tags: [Kali]
 author: Th3_4ngl3r
