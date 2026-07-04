@@ -2,8 +2,8 @@
 layout: post
 title: "Automation in the Home Lab: Provisioning Proxmox LXC Containers with Ansible"
 date: 2026-07-04 06:00:00 -0500
-categories: [Proxmox]
-tags: [Ansible]
+categories: [Linux,Proxmox]
+tags: [Ansible,Proxmox]
 author: Th3_4ngl3r
 toc: true
 comments: false

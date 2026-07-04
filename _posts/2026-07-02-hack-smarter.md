@@ -2,7 +2,7 @@
 layout: post
 title: "Try Harder | Hack Smarter"
 date: 2026-07-02 06:00:00 -0500
-categories: [Kali]
+categories: [Linux,Kali]
 tags: [Kali]
 author: Th3_4ngl3r
 toc: true
