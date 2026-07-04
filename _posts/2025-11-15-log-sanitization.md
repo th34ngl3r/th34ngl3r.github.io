@@ -3,7 +3,7 @@ layout: post
 title: Why Organizations Must Sanitize Log Data Before Sharing with Third-Party Vendors
 date: 2025-11-15
 author: Th3_4ngl3r
-categories: [Cybersecurity]
+categories: [CyberSecurity]
 tags: [CyberSecurity, Logging] #Privacy, Compliance, Logging]
 excerpt: Sanitizing log data before sharing with third-party vendors is essential for protecting privacy, reducing exposure risks, and maintaining compliance. This post explores why masking IP addresses, hostnames, and sensitive fields is a non-negotiable cybersecurity practice.
 ---
