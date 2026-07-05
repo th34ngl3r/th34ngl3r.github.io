@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automation in the Home Lab: Provisioning EJBCA Inside an LXC Containers with Ansible"
+title: "Automation in the Home Lab: Part 2: Provisioning EJBCA Inside an LXC Containers with Ansible"
 date: 2026-07-05 06:00:00 -0500
 categories: [Linux,Proxmox]
 tags: [Ansible,Proxmox]
