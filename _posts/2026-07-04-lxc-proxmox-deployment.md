@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automation in the Home Lab: Provisioning Proxmox LXC Containers with Ansible"
+title: "Automation in the Home Lab: Part 1: Provisioning Proxmox LXC Containers with Ansible"
 date: 2026-07-04 06:00:00 -0500
 categories: [Linux,Proxmox]
 tags: [Ansible,Proxmox]
@@ -161,5 +161,7 @@ With this playbook, setting up a new server in your home lab goes from a multi-s
 ## What's Next?
 
 Stay tuned! Up next, I will post a follow-up guide showing how Ansible can automate connecting to this newly created container and, as an example, install the EBCA (Enterprise Business Class Authority) application for creating and managing your own custom certificates!
+
+*Check out [Part 2: Automation in the Home Lab: Provisioning EJBCA Inside an LXC Containers with Ansible](https://thelotusbar.com/posts/ejbca-deployment/) before diving in.)*
 
 This will be followed by part 3: The configuration of ECBA and certificates with a bonus announcement at then end.
